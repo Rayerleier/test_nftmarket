@@ -1,3 +1,6 @@
 [submodule "test_Bank"]
     path = test_Bank
     url = git@github.com:Rayerleier/testBank.git
+[submodule "test_nftmarket"]
+	path = test_NFTMarket
+	url = git@github.com:Rayerleier/test_nftmarket.git
