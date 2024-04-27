@@ -4,3 +4,9 @@
 [submodule "test_nftmarket"]
 	path = test_NFTMarket
 	url = git@github.com:Rayerleier/test_nftmarket.git
+[submodule "test_tokenbank"]
+	path = test_TokenBank
+	url = git@github.com:Rayerleier/test_tokenbank.git
+[submodule "test_tokenhook"]
+	path = test_TokenHook
+	url = git@github.com:Rayerleier/test_tokenhook.git
